@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The cost of bad employee onboarding"
-description: ""
+description: "Not playing close enough attention to your onboarding practices can have a big impact on the how long employees stay at your organization."
 date:   2020-07-30 13:44:48 -0500
 permalink: blog/the-cost-of-bad-employee-onboarding
 ---

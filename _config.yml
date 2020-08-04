@@ -6,6 +6,7 @@ url: "https://meetlizzy.com" # the base hostname & protocol for your site, e.g. 
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
