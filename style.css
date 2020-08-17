@@ -215,11 +215,17 @@ header nav {
 }
 header nav a {
     color: #1F2022;
+    display: inline-block;
     font-size: 16px;
+    line-height: 26px;
     font-weight: 600;
-    margin-left: 24px;
+    margin-left: 24px;a
     text-decoration: none;
     transition: color 0.1s;
+    border-bottom: 2px solid transparent;
+}
+header nav a.active {
+    border-bottom: 2px solid #0959E4;
 }
 header nav a:hover {
     color: #0959E4;
@@ -518,14 +524,16 @@ body.hasOverlay {
 }
 .post-item {
     margin-bottom: 36px;
-    padding-bottom: 36px;
-    border-bottom: 1px solid #C8C8D8;
+    padding: 36px;
+    background: #f3f4f7;
+    border-radius: 18px;
+
 }
 .post-item:last-of-type {
     border-bottom: 0;
 }
 .post-item h1 {
-    margin-bottom: 12px;
+    margin-bottom: 0;
 }
 .byline {
     margin-bottom: 36px;

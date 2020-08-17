@@ -1,0 +1,8 @@
+docs_list_title: Lizzy Marketing Nav
+pages:
+
+- title: Blog
+  url: /blog
+
+- title: Contact
+  url: mailto:cole@meetlizzy.com
